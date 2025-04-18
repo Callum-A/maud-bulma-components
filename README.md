@@ -7,8 +7,8 @@ A collection of reusable components for the [Maud](https://maud.lambda.xyz/) tem
 - Pre-built, type-safe components for Maud
 - Bulma-styled UI elements
 - Interactive components powered by Alpine.js
-- Zero-cost abstractions
 - Fully customizable
+- HTMX form support out of the box
 
 ## Installation
 
