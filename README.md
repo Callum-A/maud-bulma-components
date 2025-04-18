@@ -18,17 +18,6 @@ This crate is not yet published to crates.io. I recommend the following approach
 - Add as a dependency via a path e.g. `../maud-components`
 - Use and customise as you see fit!
 
-## Usage
-
-```rust
-use maud_component_library::components::*;
-
-// Example component usage
-html! {
-    // Your components here
-}
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
