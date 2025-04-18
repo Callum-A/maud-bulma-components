@@ -7,17 +7,16 @@ A collection of reusable components for the [Maud](https://maud.lambda.xyz/) tem
 - Pre-built, type-safe components for Maud
 - Bulma-styled UI elements
 - Interactive components powered by Alpine.js
-- Fully customizable
+- Fully customisable
 - HTMX form support out of the box
 
 ## Installation
 
-Add this to your `Cargo.toml`:
+This crate is not yet published to crates.io. I recommend the following approach to allow maximum customisation:
 
-```toml
-[dependencies]
-maud-component-library = "0.1.0"
-```
+- Clone the crate into your workspace/project
+- Add as a dependency via a path e.g. `../maud-components`
+- Use and customise as you see fit!
 
 ## Usage
 
